@@ -229,27 +229,29 @@ body {
   background-color: #5b76a0;
 }
 
-p
-{
+p {
   margin-top: 15px;
   margin-bottom: 10px;
   padding: 5px;
 }
 
-h1{
+h1 {
   font-size: 36px;
   font-family: "Gill Sans", sans-serif;
   color: WHITE;
-
 }
 
 label, input {
   text-align: center;
 }
 
+ul {
+	background-color: WHITE;
+	padding-top: 15px;
+}
+
 @media screen and (max-width: 960px) {
-  p
-  {
+  p {
     margin-top: 15px;
     margin-bottom: 10px;
     padding: 5px;
