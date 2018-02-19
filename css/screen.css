@@ -245,11 +245,6 @@ label, input {
   text-align: center;
 }
 
-ul {
-	background-color: WHITE;
-	padding-top: 15px;
-}
-
 @media screen and (max-width: 960px) {
   p {
     margin-top: 15px;
