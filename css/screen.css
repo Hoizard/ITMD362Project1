@@ -220,6 +220,7 @@ textarea {
 /* start my css */
 
 body {
+	text-align: center;
   margin-left: 5px;
   margin-right: 5px;
   padding: 20px;
@@ -243,7 +244,7 @@ h1{
 }
 
 label, input {
-  display: block;
+  text-align: center;
 }
 
 @media screen and (max-width: 960px) {
