@@ -246,6 +246,7 @@ label, input {
 }
 
 img {
+	max-width: 100%;
 	padding: 15px;
 }
 @media screen and (min-width: 480px){
