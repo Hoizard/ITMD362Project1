@@ -245,11 +245,20 @@ label, input {
   text-align: center;
 }
 
+img {
+	padding: 15px;
+}
 @media screen and (min-width: 480px){
-	
+	img{
+		padding: 15px;
+	}
 }
 
 @media screen and (max-width: 960px) {
+	img {
+			padding: 15px;
+	}
+
   p {
     margin-top: 15px;
     margin-bottom: 10px;
