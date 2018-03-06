@@ -225,7 +225,7 @@ body {
   margin-right: 5px;
   padding: 20px;
   font-size: 20px;
-  font-family: 'Times New Roman', sans-serif;
+  font-family: 'Times New Roman','Garamond',sans-serif;
   background-color: #5b76a0;
 }
 
@@ -237,7 +237,7 @@ p {
 
 h1 {
   font-size: 36px;
-  font-family: "Gill Sans", sans-serif;
+  font-family: "Gill Sans",'Garamond',sans-serif;
   color: WHITE;
 }
 
