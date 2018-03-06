@@ -261,8 +261,8 @@ img {
 
 @media screen and (max-width: 960px) {
 	img{
-			padding-top: 0.167em;
-			padding-bottom: 0.167em;
+		padding-top: 0.167em;
+		padding-bottom: 0.167em;
 	}
 
   p {
