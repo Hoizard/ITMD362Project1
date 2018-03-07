@@ -246,7 +246,7 @@ label, input {
 }
 
 img {
-	max-width: 200px;
+	max-width: 200px;	
 	margin-left: auto;
 	margin-right: auto;
 	padding-top: 10px;
@@ -261,7 +261,7 @@ img {
 
 @media screen and (max-width: 960px){
 	img{
-		padding-top: 1.667em; /*16px*/
+		padding-top: 1.667em; /*36.674px*/
 		padding-bottom: 1.667em; /*16px*/
 	}
 }
