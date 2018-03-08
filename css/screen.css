@@ -246,7 +246,7 @@ label, input {
 }
 
 img {
-	max-width: 200px;	
+	max-width: 200px;
 	margin-left: auto;
 	margin-right: auto;
 	padding-top: 10px;
@@ -254,25 +254,21 @@ img {
 }
 @media screen and (min-width: 480px){
 	img{
-		padding-top: 0.313em;
-		padding-bottom: 0.313em;
+		padding-top: 0.6em;/*13.197*/
+		padding-bottom: 0.6em;/*13.197*/
 	}
 }
 
 @media screen and (max-width: 960px){
 	img{
-		padding-top: 1.667em; /*36.674px*/
+		padding-top: 1.667em; /*16px*/
 		padding-bottom: 1.667em; /*16px*/
 	}
 }
-	/**img{
-			padding-top: 0.167em;
-			padding-bottom: 0.167em;
-	}*/
 
   p {
-    margin-top: 0.500em;
-    margin-bottom: 0.333em;
-    padding: 0.167em;
+    margin-top: 0.36em; /*16px*/
+    margin-bottom: 0.36em; /*16px*/
+    padding: 0.36em; /*16px*/
   }
 }
