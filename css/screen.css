@@ -246,24 +246,25 @@ label, input {
 }
 
 img {
-	max-width: 9.091em; /*22px*/
-	margin-left: auto;
-	margin-right: auto;
-	padding-top: 0.455em;/*22px*/
-	padding-bottom: 0.455em; /*22px*/
+  max-width: 9.091em; /*22px*/
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: 0.455em;/*22px*/
+  padding-bottom: 0.455em; /*22px*/
 }
+
 @media screen and (min-width: 480px){
-	img{
-		padding-top: 0.6em;/*13.197*/
-		padding-bottom: 0.6em;/*13.197*/
-	}
+  img{
+    padding-top: 0.6em;/*13.197*/
+    padding-bottom: 0.6em;/*13.197*/
+  }
 }
 
 @media screen and (max-width: 960px){
-	img{
-		padding-top: 1.667em; /*16px*/
-		padding-bottom: 1.667em; /*16px*/
-	}
+  img{
+    padding-top: 1.667em; /*16px*/
+    padding-bottom: 1.667em; /*16px*/
+  }
 }
 
   p {
